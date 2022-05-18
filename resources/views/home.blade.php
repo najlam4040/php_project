@@ -8,7 +8,8 @@
 </head>
 <body>
     <h1>hiii</h1>
-    <h2></h2>
+    <h2>git hub</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, minima.</p>
     <a href="{{ route ('welcome') }}">home pege</a>
     <br>
     <a href="{{ route('home')}}">welcom page</a>
