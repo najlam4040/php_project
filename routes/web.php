@@ -17,8 +17,9 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::view('we/', 'welcome')->name('welcome');
-Route::view('qw/', 'home')->name('home');
-Route::view('a/', 'intex')->name('intex');
+Route::view('we','welcome')->name('welcome');
+Route::view('w','new')->name('new');
+Route::view('a', 'index')->name('index');
+Route::view('na','fastpage')->name('fastpage');
  
  
