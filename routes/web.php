@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::view('we','welcome')->name('welcome');
+Route::view('/','welcome')->name('welcome');
 Route::view('w','new')->name('new');
 Route::view('a', 'index')->name('index');
 Route::view('na','fastpage')->name('fastpage');
