@@ -22,5 +22,7 @@ Route::view('w','new')->name('new');
 Route::view('a', 'index')->name('index');
 Route::view('na','stylepage')->name('stylepage');
 Route::view('n','css');
+Route::view('s1','cssgrid');
+Route::view('g1','grid1');
  
  

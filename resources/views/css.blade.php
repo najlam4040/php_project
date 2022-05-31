@@ -27,7 +27,7 @@
             width: 100%;
             height: 50px;
             border-collapse: collapse;
-             /* background-color: rgb(127, 131, 131);   */
+            /* background-color: rgb(127, 131, 131);   */
             margin-left: 200px; 
             text-align: center;
             padding: 10px;
@@ -49,27 +49,33 @@
         .div3{
             margin-top:20px;
             border: 5px;
-            background-color: aliceblue;
+            /* background-color: aliceblue; */
             width: 500px;
             /* position: absolute; */
             /* position: relative; */
-         
+            /* background-image: linear-gradient(to right, red , yellow);  */
+             background-image: linear-gradient(to right, blue ,green); 
         }    
         h4{
             position: sticky;
             top: 0;
+             
+        }
+        h2{
+            text-shadow: 2px 2px 5px red;
         }
         marquee{
             color: brown;
             background-color: rgb(247, 227, 200);
 
         }
-        
+         
 
     </style>
     
 </head>
 <body>
+    <h2>hai</h2>
     <marquee width="100%" height="100px" behavior="right" direction="up">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Impedit consequatur perspiciatis consequuntur repudiandae ut, in quibusdam, inventore vero fugit ipsa dicta accusantium maxime nulla iusto aliquam placeat illo possimus obcaecati!</marquee>
     <marquee width="100%"height=100px  behavior=" alternate" direction="right" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, soluta. Magnam suscipit, reprehenderit consectetur nostrum dolorem voluptatibus itaque hic eveniet labore quos eligendi ut deleniti blanditiis expedita doloribus illo! Soluta!</marquee>
     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit distinctio nam perspiciatis id atque veniam quisquam voluptatum, impedit hic nostrum eligendi alias deserunt dicta optio, excepturi perferendis eaque temporibus reprehenderit commodi sed animi molestias nulla earum officia! Maiores, tempore, similique deleniti molestiae porro debitis quos officia rerum, deserunt atque asperiores.
