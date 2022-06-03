@@ -25,6 +25,6 @@ Route::view('n','css');
 Route::view('s1','cssgrid');
 Route::view('g1','grid1');
 Route::view('g2','grid2');
-Route::view('n1','bootstrap ');
- 
+Route::view('n1','bootstrap');
+Route::view('t1','table'); 
  
