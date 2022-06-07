@@ -26,5 +26,13 @@ Route::view('s1','cssgrid');
 Route::view('g1','grid1');
 Route::view('g2','grid2');
 Route::view('n1','bootstrap');
-Route::view('t1','table'); 
+Route::view('t1','table');
+Route::view('t','test');
+Route::view('testStyle','javascript');
+Route::view('t19','test19');
+
+
+
+
+
  
