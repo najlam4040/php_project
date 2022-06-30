@@ -16,13 +16,13 @@
         <div class="row">
             <div class="col-1"><img src="{{asset ('images/1.jpg')}}" class="img-fluid" alt=""></div>
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem rerum consequatur nulla, minima impedit iure voluptas, similique quisquam, incidunt veniam distinctio cupiditate? Perferendis recusandae minus quaerat quibusdam omnis repellat beatae?</p> -->
-        <div class="col-md-6">
+        <div class="col-md-2">
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab, nulla maxime debitis pariatur rem voluptatibus provident eos laborum expedita ex culpa qui ullam molestias dolorem eaque vel eligendi! Facere, iusto?</p>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-4">
            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab, nulla maxime debitis pariatur rem voluptatibus provident eos laborum expedita ex culpa qui ullam molestias dolorem eaque vel eligendi! Facere, iusto?</p>
         </div>
-        <div class="col-md-4 col-6 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis veniam similique quia aliquid, maxime saepe magni, molestias excepturi sed quam ducimus soluta voluptatem qui facere est modi doloribus quae consectetur.</div>
+        <div class="col-md-2 col-6 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis veniam similique quia aliquid, maxime saepe magni, molestias excepturi sed quam ducimus soluta voluptatem qui facere est modi doloribus quae consectetur.</div>
         <div class="col-md-6">
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab, nulla maxime debitis pariatur rem voluptatibus provident eos laborum expedita ex culpa qui ullam molestias dolorem eaque vel eligendi! Facere, iusto?</p>
         </div>

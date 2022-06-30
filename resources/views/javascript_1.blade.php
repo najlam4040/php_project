@@ -8,35 +8,41 @@
     <script type="test/javascript" src= "{{asset('js/ext.js')}}"></script>  
 </head>
 <body>
-    <!-- <input type="button" onclick="alert('cybersquare')" value="click">  
+      
+    <input type="button" onclick="alert('cybersquare')" value="click">
+    
+    
+     <input type="button" onclick="alert('hai naju')" value="click">  
     <script>
+      
+
+        
+      
+    // <!-- <script>
+    //     var name="najla";
+    //     var age=12;
+    //     document.write('name1')
+    //     console.log(age)
+    // </script>   
         document.write("hai")
-    </script>   -->
-    <!-- <script>
-        var name="najla";
-        var age=12;
-        document.write('name1')
-        console.log(age)
-    </script>    -->
-    <script>
         var name1="najla"
         var name2="safa"
-        // var name2=name1
+        var name2=name1
         console.log(name1)
         console.log(name2)
         var person1={
-            name:"ads",
-            age:12
+            name:"sanha",
+            age:10
         }
         var person2={
-            name:"sade",
-            age:13,
+            name:"shanza",
+            age:4,
             gender:"female"
         }
         console.log(person1)
-        // var person2=person1
+      
         console.log(person2)
-        person1.name="xswx",
+        person1.name="azan",
         console.log(person1)
         console.log(person2)
         var arr=[3,"hai"]
@@ -44,7 +50,7 @@
         arr[3]=44
         console.log(arr)
         var arr1=arr
-        console.log(arr1)
+        // console.log(arr1)
         var a=10
 
 
@@ -55,9 +61,24 @@
         console.log(a)
          
         a="hello hi"
+        console.log(a) 
+        
+        var b=null; 
+        console.log (b)
+        const pi=3.14;
+           // pi=2.2=34;
+        console.log(pi) 
+
+        let name3="jklij"
+        //let name3=56
+        console.log (name3)
+        var a=78
+        function display(){
+            var a=10;
+            console.log("inside function",a)
+        } 
         console.log(a)
-         
-          
+        display()   
         
 
     </script> 
