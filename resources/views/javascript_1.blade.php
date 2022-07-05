@@ -13,17 +13,13 @@
     
     
      <input type="button" onclick="alert('hai naju')" value="click">  
+      
     <script>
-      
-
-        
-      
-    // <!-- <script>
-    //     var name="najla";
-    //     var age=12;
-    //     document.write('name1')
-    //     console.log(age)
-    // </script>   
+        var name="najla";
+        var age=12;
+        document.write('name1')
+        console.log(age)
+       
         document.write("hai")
         var name1="najla"
         var name2="safa"

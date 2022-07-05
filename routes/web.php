@@ -38,7 +38,7 @@ Route::view('else_if_grade','else_if_grade');
 Route::view('function_largest_second_last','function_largest_second_last');
 Route::view('fn-2','function2');
 Route::view('content_changed_and_color','content_changed_and_color');
-Route::view('answer','answer');
+Route::view('answer','answer_js');
 Route::view('switch','switch');
 Route::view('dom3','dom_hw');
 Route::view('calculator','calculator');
@@ -48,6 +48,19 @@ Route::view('form','form');
 Route::view('js_string','js_string');
 Route::view('js_string_word count','js_string_word count');
 Route::view('js_string_hw','js_string_hw');
+Route::view('case_converter','case_converter');
+Route::view('js_exam_model','js_exam_model');
+Route::view('js_array_metheods','js_array_metheods');
+Route::view('jquery_js','jquery_js');
+Route::view('exam','exam');
+Route::view('call_back','call_back');
+Route::view('game_img_moving','game_img_moving');
+Route::view('jquery2_js','jquery2_js');
+Route::view('jquery_html','jquery_html');
+Route::view('jquery_traversing','jquery_traversing');
+Route::view('jquery_form_validate','jquery_form_validate');
+Route::view('slide','slide');
+
 
 
 
